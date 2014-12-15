@@ -12,7 +12,6 @@ Options
 -------
 
 - outputFile
--
 
 Example
 -------
